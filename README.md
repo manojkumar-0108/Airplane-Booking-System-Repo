@@ -32,7 +32,7 @@ A big thank you to our tutor for guiding us through this project. Your expertise
                                    |      API      |
                                    |    Gateway    |
                                    |      ---      |
-				       |    Reverse    |
+                                   |    Reverse    |
                                    |     Proxy     |
                                    +------+--------+
                                           |
